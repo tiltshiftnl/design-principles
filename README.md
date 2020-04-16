@@ -9,9 +9,9 @@ TiltShift Design Principles
 2. ervaar samen het probleem
 3. creativiteit is een taak
 4. geef mensen super powers
-5. verzin eenvoudige, begrijpelijke, specifieke oplossingen
-6. (her)gebruik wat werkt, al is het papier
-7. maak dingen direct bruikbaar en itereer
-8. gebruik frictie, wees brutaal
-9. maak geen confectie
+5. maak concepten eenvoudig en begrijpelijk
+6. maak specifieke oplossingen
+7. (her)gebruik wat werkt, al is het papier
+8. maak dingen direct bruikbaar en itereer
+9. gebruik frictie, wees brutaal
 10. alles is inspiratie
