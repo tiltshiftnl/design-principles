@@ -7,7 +7,7 @@ TiltShift Design Principles
 
 1. maak software samen
 2. ervaar samen het probleem
-3. creativiteit is een taak
+3. dwing jezelf tot creativiteit
 4. geef mensen super powers
 5. maak concepten eenvoudig en begrijpelijk
 6. maak specifieke oplossingen
