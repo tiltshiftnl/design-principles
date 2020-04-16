@@ -3,6 +3,7 @@ Dit is een eerste opzet voor design principles voor TiltShift werkplaatsen, team
 Feedback en suggesties worden zeer op prijs gesteld.
 
 TiltShift Design Principles
+===========================
 
 1. maak software samen
 2. ervaar samen het probleem
