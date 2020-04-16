@@ -9,7 +9,7 @@ TiltShift Design Principles
 2. ervaar samen het probleem
 3. creativiteit is een taak
 4. geef mensen super powers
-5. verzin eenvoudige, begrijpelijke oplossingen
+5. verzin eenvoudige, begrijpelijke, specifieke oplossingen
 6. (her)gebruik wat werkt, al is het papier
 7. maak dingen direct bruikbaar en itereer
 8. gebruik frictie, wees brutaal
