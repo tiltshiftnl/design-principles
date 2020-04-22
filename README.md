@@ -11,5 +11,5 @@ TiltShift Design Principles
 6. we maken specifieke tools
 7. we (her)gebruiken wat werkt, al is het papier
 8. we maken dingen direct bruikbaar en itereren
-9. we gebruiken frictie en zijn soms brutaal
+9. we gebruiken frictie en zijn waar nodig brutaal
 10. we gebruiken alles als inspiratie
