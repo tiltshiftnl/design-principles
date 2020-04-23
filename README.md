@@ -13,3 +13,5 @@ TiltShift Design Principles
 8. we maken dingen direct bruikbaar en itereren
 9. we gebruiken frictie en zijn waar nodig brutaal
 10. we gebruiken alles als inspiratie
+
+CC-BY-NC TiltShift 2020
