@@ -15,3 +15,11 @@ TiltShift Design Principles
 10. we gebruiken alles als inspiratie
 
 CC-BY-NC TiltShift 2020
+
+---
+
+zie ook:
+
+https://github.com/TiltShiftNL/gedragscode
+
+https://github.com/TiltShiftNL/good-public-tech
