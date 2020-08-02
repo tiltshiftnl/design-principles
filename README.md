@@ -1,6 +1,6 @@
-TiltShift is een design bedrijf voor good public tech. Daarbij hanteren we de onderstaande design principes.
+TILTSHIFT is een design bedrijf voor good public tech. Daarbij hanteren we de onderstaande design principes.
 
-TiltShift Design Principles
+TILTSHIFT Design Principles
 ===========================
 
 1. we maken software samen
@@ -14,12 +14,12 @@ TiltShift Design Principles
 9. we gebruiken frictie en zijn waar nodig brutaal
 10. we gebruiken alles als inspiratie
 
-CC-BY-NC TiltShift 2020
+CC-BY-NC TILTSHIFT 2020
 
 ---
 
 zie ook:
 
-https://github.com/TiltShiftNL/gedragscode
+https://github.com/tiltshiftnl/gedragscode
 
-https://github.com/TiltShiftNL/good-public-tech
+https://github.com/tiltshiftnl/good-public-tech
