@@ -3,16 +3,16 @@ TILTSHIFT is een design bedrijf voor good public tech. Daarbij hanteren we de on
 TILTSHIFT Design Principles
 ===========================
 
-1. we maken software samen
-2. we ervaren samen het probleem
-3. we maken van creativiteit een taak
-4. we geven mensen super powers
-5. we maken concepten eenvoudig en begrijpelijk
-6. we maken specifieke tools
-7. we (her)gebruiken wat werkt, al is het papier
-8. we maken dingen direct bruikbaar en itereren
-9. we gebruiken frictie en zijn waar nodig brutaal
-10. we gebruiken alles als inspiratie
+1. doe het samen
+2. ervaar het probleem
+3. gebruik creativiteit
+4. geef mensen superpowers
+5. maak het simpel
+6. maak gereedschap
+7. doe wat werkt
+8. itereer
+9. durf te doen
+10. alles is inspiratie
 
 CC-BY-NC TILTSHIFT 2020
 
